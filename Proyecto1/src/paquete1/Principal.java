@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Ejemplo control de versiones con Git");
 		System.out.println("Segundo ejemplo de control de versiones con Git");
+		System.out.println("Cambios");
 	}
 
 }
